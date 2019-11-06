@@ -1,0 +1,15 @@
+TAJEMSTVI G
+
+ftp backdoor:
+nmap zistime beh ftp, pripojenim verziu ftp, tlenet je na smithe kde sa pripojime cez ssh s key z .ssh/
+Ziskali jste tajemstvi G_04-11-20-53-01_2a8d9b332a0e5007a1aa70b346314152cba8cdfda1e8501d4498aa135a1035ca
+
+TAJEMSTVI C
+
+nmap zisime kde bezi http, elinks je na smithovi, vyskusal som sservery s http, na 122.169-ke boli subory v etc, po prechadzani v etc/raddb/mysql.conf nasiel som tajomstvo
+Ziskali jste tajemstvi C_04-11-21-46-01_df79761586517075533cdd803f2a65e7aa095799822852a5bc36b7c93ce2b50d
+
+TAJEMSTVI D
+presiel som pcapy s wireshark, po passworde v agg2 nasledovalo slovo nachystejteuzenace, skusil som prepnut usera na ada s tymto helsom, islo, v priecinku ada je subor secrets.txt
+Ziskali jste tajemstvi D_06-11-11-17-01_b6580a9663c7a360f578ffc43220898a4dcf74fd53c8dcb916f5d56f2efccf9b
+
