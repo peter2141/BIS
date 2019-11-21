@@ -41,14 +41,17 @@ zistil som cez nmap ze na smithovi (.220) bezi aj web server, skusam sa pripojit
 Ziskali jste tajemstvi E_21-11-12-01-01_9f5a818f6cb0f8d29903cc1a8f38d31ef928715728c4553721564e884756aaf2
 
 
+TAJEMSTVI F
+
+je to na 227 teacher, skusame sudo su, zneuzijeme -u#-1, dame find . -type f | grep secret, v /root je subor secret
+Ziskali jste tajemstvi F_21-11-20-20-01_74722ff3fdd5afe1bd6f1efbdd16aa6eb4c0f75f64188e44e003216ecbda4519
+
+
 TAJEMSTVI J
 
 root-root na 77
 
 
-TAJEMSTVI F
 
-TODO
-je to na 227 teacher, zneuzijeme -u#-1, v /root je subor secret
 
 
