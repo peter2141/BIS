@@ -35,6 +35,17 @@ prechadzam adresare v $PATH, davam ls a nasiel som v /uesr/bin zaujimavy subor s
 Ziskali jste tajemstvi H_18-11-11-16-01_4a0f74ac5add2d0d35fd34be075530357060cc0c4fbb23cfdcdd53ad178d1a1d
 
 
+TAJEMSTVI E
+
+zistil som cez nmap ze na smithovi (.220) bezi aj web server, skusam sa pripojit na localhost bez uspechu, na teacheri tiez je elinks, otvaram stranku tam chce login, heslo, skusam nic, potom curl -v, kde vidim cookie LOGGED_IN=False, nastavenim ho na true pomocou curl -b "LOGGED_IN=True" 192.168.122.220
+Ziskali jste tajemstvi E_21-11-12-01-01_9f5a818f6cb0f8d29903cc1a8f38d31ef928715728c4553721564e884756aaf2
+
+
+TAJEMSTVI J
+
+root-root na 77
+
+
 TAJEMSTVI F
 
 TODO
