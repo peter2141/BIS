@@ -47,9 +47,16 @@ je to na 227 teacher, skusame sudo su, zneuzijeme -u#-1, dame find . -type f | g
 Ziskali jste tajemstvi F_21-11-20-20-01_74722ff3fdd5afe1bd6f1efbdd16aa6eb4c0f75f64188e44e003216ecbda4519
 
 
+TAJEMSTVI I
+
+na .105 chyba, ide o treacy co je debug k nette, nette ma strukturu app, ventor, www, atd., skusam vsetky, v /app/config/local.neon nachadzam tajomstvo
+Ziskali jste tajemstvi I_23-11-13-50-01_1a9042883bd18e4e822bad7b1525950a65de35bf792dd7e709208c33021f725c
+
+
 TAJEMSTVI J
 
 root-root na 77
+
 
 
 
