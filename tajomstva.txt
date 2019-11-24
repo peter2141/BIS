@@ -31,7 +31,7 @@ Ziskali jste tajemstvi A_06-11-18-39-01_b39755ba338f6368d3cc6769c9af9cba0e3bfc4e
 
 TAJEMSTVI H 
 
-prechadzam adresare v $PATH, davam ls a nasiel som v /uesr/bin zaujimavy subor s nazvom show-secret, po jeho spusteni ziskavam tajomstvo H
+prechadzam adresare v $PATH, davam ls a nasiel som v /user/bin zaujimavy subor s nazvom show-secret, po jeho spusteni ziskavam tajomstvo H
 Ziskali jste tajemstvi H_18-11-11-16-01_4a0f74ac5add2d0d35fd34be075530357060cc0c4fbb23cfdcdd53ad178d1a1d
 
 
@@ -39,12 +39,6 @@ TAJEMSTVI E
 
 zistil som cez nmap ze na smithovi (.220) bezi aj web server, skusam sa pripojit na localhost bez uspechu, na teacheri tiez je elinks, otvaram stranku tam chce login, heslo, skusam nic, potom curl -v, kde vidim cookie LOGGED_IN=False, nastavenim ho na true pomocou curl -b "LOGGED_IN=True" 192.168.122.220
 Ziskali jste tajemstvi E_21-11-12-01-01_9f5a818f6cb0f8d29903cc1a8f38d31ef928715728c4553721564e884756aaf2
-
-
-TAJEMSTVI F
-
-je to na 227 teacher, skusame sudo su, zneuzijeme -u#-1, dame find . -type f | grep secret, v /root je subor secret
-Ziskali jste tajemstvi F_21-11-20-20-01_74722ff3fdd5afe1bd6f1efbdd16aa6eb4c0f75f64188e44e003216ecbda4519
 
 
 TAJEMSTVI I
@@ -59,12 +53,13 @@ ftp na 122.169 na porte 42424, prihlasit sa anonymne, pomocou get stiahnem secre
 Ziskali jste tajemstvi B_24-11-15-01-01_f46d79354904675c4762d68d30de285924606e1be6218b7a3c190f346834bd05
 
 
+TAJEMSTVI F TODO znovu
+
+je to na 227 teacher, skusame sudo su, zneuzijeme -u#-1, dame find . -type f | grep secret, v /root je subor secret
+Ziskali jste tajemstvi F_24-11-17-04-02_8dba2c2daaf3c6083c69623c2cf02f45245d12c994f4d7a6b498c3aea3963ff3
+
+
 TAJEMSTVI J
 
-root-root na 77
-
-
-
-
-
-
+root-root na .77
+Ziskali jste tajemstvi J_24-11-18-12-01_c4e1f9f4dbb09a40e48f44fc41826bfae5f07073a1fe3d9804072517128e4ecb
