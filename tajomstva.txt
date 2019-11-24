@@ -53,6 +53,12 @@ na .105 chyba, ide o treacy co je debug k nette, nette ma strukturu app, ventor,
 Ziskali jste tajemstvi I_23-11-13-50-01_1a9042883bd18e4e822bad7b1525950a65de35bf792dd7e709208c33021f725c
 
 
+TAJEMSTVI B 
+
+ftp na 122.169 na porte 42424, prihlasit sa anonymne, pomocou get stiahnem secret
+Ziskali jste tajemstvi B_24-11-15-01-01_f46d79354904675c4762d68d30de285924606e1be6218b7a3c190f346834bd05
+
+
 TAJEMSTVI J
 
 root-root na 77
