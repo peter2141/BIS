@@ -41,6 +41,12 @@ zistil som cez nmap ze na smithovi (.220) bezi aj web server, skusam sa pripojit
 Ziskali jste tajemstvi E_21-11-12-01-01_9f5a818f6cb0f8d29903cc1a8f38d31ef928715728c4553721564e884756aaf2
 
 
+TAJEMSTVI F
+
+je to na 227 teacher, skusame sudo su, zneuzijeme -u#-1, dame find . -type f | grep secret, v /root je subor secret
+Ziskali jste tajemstvi F_21-11-20-20-01_74722ff3fdd5afe1bd6f1efbdd16aa6eb4c0f75f64188e44e003216ecbda4519
+
+
 TAJEMSTVI I
 
 na .105 chyba, ide o treacy co je debug k nette, nette ma strukturu app, ventor, www, atd., skusam vsetky, v /app/config/local.neon nachadzam tajomstvo
@@ -53,10 +59,10 @@ ftp na 122.169 na porte 42424, prihlasit sa anonymne, pomocou get stiahnem secre
 Ziskali jste tajemstvi B_24-11-15-01-01_f46d79354904675c4762d68d30de285924606e1be6218b7a3c190f346834bd05
 
 
-TAJEMSTVI F TODO znovu
+%TAJEMSTVI F TODO znovu
 
-je to na 227 teacher, skusame sudo su, zneuzijeme -u#-1, dame find . -type f | grep secret, v /root je subor secret
-Ziskali jste tajemstvi F_24-11-17-04-02_8dba2c2daaf3c6083c69623c2cf02f45245d12c994f4d7a6b498c3aea3963ff3
+%je to na 227 teacher, skusame sudo su, zneuzijeme -u#-1, dame find . -type f | grep secret, v /root je subor secret
+%Ziskali jste tajemstvi F_24-11-17-04-02_8dba2c2daaf3c6083c69623c2cf02f45245d12c994f4d7a6b498c3aea3963ff3
 
 
 TAJEMSTVI J
